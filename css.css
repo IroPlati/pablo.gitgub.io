@@ -1,0 +1,89 @@
+h1 {
+    text-align: center;
+    background-color: rgb(255, 127, 127);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+#dos {
+    font-family: 'Arial', sans-serif;
+    color: #cc362e; 
+    text-align: left;
+    margin: 20px; 
+    font-size: 1em;
+}
+
+#imagen {
+    width: 15%;
+    height: auto;
+}
+
+body {
+    background-color: bisque;
+}
+
+#imagendos {
+    width: 15%;
+    height: auto;
+}
+
+#imagentres {
+    width: 15%;
+    height: auto;
+}
+
+#imagencuatro {
+    width: 15%;
+    height: auto;
+}
+
+#imagencinco {
+width: 15%;
+height: auto;
+}
+
+#imagenseis {
+    width: 15%;
+    height: auto;
+}
+
+#tres {
+    font-family: 'Arial', sans-serif;
+    color: #a4cc2e; 
+    text-align: left;
+    margin: 20px; 
+    font-size: 1em;
+}
+
+#cuatro {
+    font-family: 'Arial', sans-serif;
+    color: #2eccb7; 
+    text-align: left;
+    margin: 20px; 
+    font-size: 1em;
+}
+
+#cinco {
+    font-family: 'Arial', sans-serif;
+    color: #382ecc; 
+    text-align: left;
+    margin: 20px; 
+    font-size: 1em;
+}
+
+#seis {
+    font-family: 'Arial', sans-serif;
+    color: #cc2e65; 
+    text-align: left;
+    margin: 20px; 
+    font-size: 1em;
+}
+
+#siete {
+     font-family: 'Arial', sans-serif;
+    color: #cc2e2e; 
+    text-align: left;
+    margin: 20px; 
+    font-size: 1em;
+}
